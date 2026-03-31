@@ -1,4 +1,4 @@
-# 🌐 SafeSite Scraper
+# 🌐 WebGuard-Scraper
 
 SafeSite Scraper is a Python-based GUI application that extracts useful information from websites and analyzes their credibility. It helps users gather contact details and detect potentially suspicious websites.
 
